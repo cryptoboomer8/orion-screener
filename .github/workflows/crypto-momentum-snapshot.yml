@@ -92,18 +92,10 @@ jobs:
 
           outputs = []
           for attempt in range(4):  # initial try + retries for indexing lag
-              try:
-                  # Preferred form
-                  outputs = list(client.beta.files.list(
-                      session_id=session.id,
-                      betas=["files-api-2025-04-14"],
-                  ))
-              except TypeError:
-                  # Some SDK variants may use scope_id instead
-                  outputs = list(client.beta.files.list(
-                      scope_id=session.id,
-                      betas=["files-api-2025-04-14"],
-                  ))
+              outputs = list(client.beta.files.list(
+                  extra_query={"session_id": session.id},
+                  betas=["files-api-2025-04-14"],
+              ))
 
               # Keep only downloadable files if that attribute exists
               outputs = [f for f in outputs if getattr(f, "downloadable", True)]
