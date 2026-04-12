@@ -93,7 +93,6 @@ jobs:
           outputs = []
           for attempt in range(4):  # initial try + retries for indexing lag
               outputs = list(client.beta.files.list(
-                  extra_query={"session_id": session.id},
                   betas=["files-api-2025-04-14"],
               ))
 
