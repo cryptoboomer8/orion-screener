@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-13T01:25:23.257249+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 68460,
+      "volume": 7662002.47329
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 21191,
+      "volume": 1463470.3139999998
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 15560,
+      "volume": 14405611.49461
+    },
+    {
+      "symbol": "SKYAIUSDT",
+      "trade_count": 10903,
+      "volume": 871753.3680499999
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 10462,
+      "volume": 453921.72683099995
+    },
+    {
+      "symbol": "BEATUSDT",
+      "trade_count": 10121,
+      "volume": 640493.6794
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 9242,
+      "volume": 25672558.591000002
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 8430,
+      "volume": 462932.65625
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 7865,
+      "volume": 240237.94170999998
+    },
+    {
+      "symbol": "INXUSDT",
+      "trade_count": 7714,
+      "volume": 661534.0268120001
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 5503,
+      "volume": 5199787.7365
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 5371,
+      "volume": 297714.5951
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 4636,
+      "volume": 730330.85402
+    },
+    {
+      "symbol": "STOUSDT",
+      "trade_count": 4293,
+      "volume": 267180.62215
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 4013,
+      "volume": 73965.32618
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 3987,
+      "volume": 6781829.4960900005
+    },
+    {
+      "symbol": "XAUUSDT",
+      "trade_count": 3347,
+      "volume": 5851759.77574
+    },
+    {
+      "symbol": "TAOUSDT",
+      "trade_count": 3191,
+      "volume": 360865.79839
+    },
+    {
+      "symbol": "\u9f99\u867eUSDT",
+      "trade_count": 3180,
+      "volume": 99850.69870000001
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 3039,
+      "volume": 203709.58849999998
+    }
+  ]
+}
