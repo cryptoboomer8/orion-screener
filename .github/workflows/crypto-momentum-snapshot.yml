@@ -46,7 +46,17 @@ jobs:
           )
           print(f"Session started: {session.id}")
 
-          # 2. Stream until terminated
+          # 2. Send the initial trigger message to start the agent
+          client.beta.sessions.events.send(
+              session_id=session.id,
+              events=[{
+                  "type": "user.message",
+                  "content": [{"type": "text", "text": "Run the snapshot now."}],
+              }],
+              betas=["managed-agents-2026-04-01"],
+          )
+
+          # 3. Stream until terminated
           try:
               for event in client.beta.sessions.events.stream(
                   session_id=session.id,
@@ -63,10 +73,10 @@ jobs:
           finally:
               signal.alarm(0)  # cancel alarm
 
-          # 3. Brief pause for output file indexing
+          # 4. Brief pause for output file indexing
           time.sleep(3)
 
-          # 4. Download snapshot files written to /mnt/session/outputs/
+          # 5. Download snapshot files written to /mnt/session/outputs/
           os.makedirs("snapshots", exist_ok=True)
           files = client.beta.files.list(betas=["files-api-2025-04-14"])
           downloaded = 0
