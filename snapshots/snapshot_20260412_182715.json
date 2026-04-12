@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-12T18:27:15.377135+02:00",
+  "top_20": [
+    {
+      "symbol": "0GUSDT",
+      "trade_count": 55282,
+      "volume": 5979334.8816
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 44112,
+      "volume": 3738429.14391
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 20053,
+      "volume": 1692144.246738
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 18889,
+      "volume": 1790743.0480000002
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 12820,
+      "volume": 1471499.50635
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 11764,
+      "volume": 958648.376
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 10312,
+      "volume": 870050.1153899999
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 9029,
+      "volume": 166641.13546999998
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 9009,
+      "volume": 304869.74458
+    },
+    {
+      "symbol": "AKEUSDT",
+      "trade_count": 8037,
+      "volume": 227628.47311740002
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 7930,
+      "volume": 8434261.87806
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 7109,
+      "volume": 2391705.7355500003
+    },
+    {
+      "symbol": "PIPPINUSDT",
+      "trade_count": 6889,
+      "volume": 679221.1054700001
+    },
+    {
+      "symbol": "STOUSDT",
+      "trade_count": 5579,
+      "volume": 377037.98793
+    },
+    {
+      "symbol": "HUMAUSDT",
+      "trade_count": 5353,
+      "volume": 153893.97750100002
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 5286,
+      "volume": 14357339.3666
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "trade_count": 5014,
+      "volume": 2281863.01448
+    },
+    {
+      "symbol": "FIDAUSDT",
+      "trade_count": 4780,
+      "volume": 595915.77634
+    },
+    {
+      "symbol": "TRUUSDT",
+      "trade_count": 4423,
+      "volume": 212412.293985
+    },
+    {
+      "symbol": "EDGEUSDT",
+      "trade_count": 4202,
+      "volume": 389465.13060000003
+    }
+  ]
+}
