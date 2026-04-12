@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-12T19:27:26+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 287699,
+      "volume": 45662797.89052
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 12793,
+      "volume": 841646.4695
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 10950,
+      "volume": 1626202.177323
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 10464,
+      "volume": 923740.086
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 9472,
+      "volume": 17479693.243440002
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 8957,
+      "volume": 2781074.4700800003
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 8929,
+      "volume": 1047186.72352
+    },
+    {
+      "symbol": "AIOUSDT",
+      "trade_count": 8742,
+      "volume": 640291.50539
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 8509,
+      "volume": 1065753.3582
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 8132,
+      "volume": 231168.45314000003
+    },
+    {
+      "symbol": "FUNUSDT",
+      "trade_count": 7549,
+      "volume": 746766.880608
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 6027,
+      "volume": 359238.16203
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 4961,
+      "volume": 113913.62265
+    },
+    {
+      "symbol": "0GUSDT",
+      "trade_count": 4872,
+      "volume": 419724.7239
+    },
+    {
+      "symbol": "TAOUSDT",
+      "trade_count": 4602,
+      "volume": 680625.26446
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 4362,
+      "volume": 12068337.9857
+    },
+    {
+      "symbol": "币安人生USDT",
+      "trade_count": 4062,
+      "volume": 486970.30504
+    },
+    {
+      "symbol": "MAGMAUSDT",
+      "trade_count": 3893,
+      "volume": 74460.52439
+    },
+    {
+      "symbol": "PHBUSDT",
+      "trade_count": 3756,
+      "volume": 218656.7585
+    },
+    {
+      "symbol": "FIOUSDT",
+      "trade_count": 3510,
+      "volume": 84097.47688700001
+    }
+  ]
+}
