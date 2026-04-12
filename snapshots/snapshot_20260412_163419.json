@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-12T16:34:19.885258+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 36554,
+      "volume": 3651486.99118
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 26836,
+      "volume": 2430931.19126
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 19175,
+      "volume": 1750387.05036
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 14763,
+      "volume": 22733956.368610002
+    },
+    {
+      "symbol": "AINUSDT",
+      "trade_count": 9496,
+      "volume": 644934.5756399999
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 8946,
+      "volume": 273644.95427
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 8924,
+      "volume": 14962713.1404
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 8802,
+      "volume": 1405729.8963370002
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 8306,
+      "volume": 696008.5559999999
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 8035,
+      "volume": 25092444.7865
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 7079,
+      "volume": 511364.85691000003
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 6989,
+      "volume": 156075.24189
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 6398,
+      "volume": 1555455.08128
+    },
+    {
+      "symbol": "TRUUSDT",
+      "trade_count": 6158,
+      "volume": 336651.50308
+    },
+    {
+      "symbol": "TRUMPUSDT",
+      "trade_count": 5793,
+      "volume": 3203417.53113
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 5300,
+      "volume": 671143.43483
+    },
+    {
+      "symbol": "PIXELUSDT",
+      "trade_count": 5166,
+      "volume": 245650.96433499997
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "trade_count": 5139,
+      "volume": 2141087.9106599996
+    },
+    {
+      "symbol": "MAGMAUSDT",
+      "trade_count": 4797,
+      "volume": 267448.34692
+    },
+    {
+      "symbol": "FIDAUSDT",
+      "trade_count": 4481,
+      "volume": 505388.99539
+    }
+  ]
+}
