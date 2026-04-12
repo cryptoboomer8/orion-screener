@@ -93,7 +93,8 @@ jobs:
           outputs = []
           for attempt in range(4):  # initial try + retries for indexing lag
               outputs = list(client.beta.files.list(
-                  betas=["files-api-2025-04-14"],
+                  scope_id=session.id,
+                  betas=["managed-agents-2026-04-01"],
               ))
 
               # Keep only downloadable files if that attribute exists
@@ -119,7 +120,7 @@ jobs:
 
               response = client.beta.files.download(
                   f.id,
-                  betas=["files-api-2025-04-14"],
+                  betas=["managed-agents-2026-04-01"],
               )
               with open(dest, "wb") as out:
                   out.write(response.read())
