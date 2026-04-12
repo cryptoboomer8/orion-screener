@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-12T23:25:02+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 65851,
+      "volume": 14120863.59
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 10029,
+      "volume": 911003.4
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 6845,
+      "volume": 299827.12
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 6542,
+      "volume": 737728.7
+    },
+    {
+      "symbol": "INXUSDT",
+      "trade_count": 4904,
+      "volume": 318906.72
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 4466,
+      "volume": 315842.54
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 4184,
+      "volume": 166528.44
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 4001,
+      "volume": 3700825.92
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 3675,
+      "volume": 163870.71
+    },
+    {
+      "symbol": "BEATUSDT",
+      "trade_count": 3640,
+      "volume": 234156.21
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 3538,
+      "volume": 151383.58
+    },
+    {
+      "symbol": "JSTUSDT",
+      "trade_count": 3419,
+      "volume": 348753.54
+    },
+    {
+      "symbol": "IRUSDT",
+      "trade_count": 3224,
+      "volume": 165741.12
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 2711,
+      "volume": 774018.04
+    },
+    {
+      "symbol": "AIOUSDT",
+      "trade_count": 2672,
+      "volume": 172020.73
+    },
+    {
+      "symbol": "DUSKUSDT",
+      "trade_count": 2648,
+      "volume": 174696.19
+    },
+    {
+      "symbol": "0GUSDT",
+      "trade_count": 2485,
+      "volume": 239839.83
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 2479,
+      "volume": 165532.76
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 2165,
+      "volume": 1888853.67
+    },
+    {
+      "symbol": "BANUSDT",
+      "trade_count": 2163,
+      "volume": 137900.01
+    }
+  ]
+}
