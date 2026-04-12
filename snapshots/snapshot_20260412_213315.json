@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-12T21:33:15+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 51180,
+      "volume": 6059890.04
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 16453,
+      "volume": 901197.94
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 14890,
+      "volume": 1877269.0
+    },
+    {
+      "symbol": "AIOUSDT",
+      "trade_count": 12991,
+      "volume": 914661.2
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 12363,
+      "volume": 512052.47
+    },
+    {
+      "symbol": "INXUSDT",
+      "trade_count": 11500,
+      "volume": 924672.3
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 11246,
+      "volume": 1047540.42
+    },
+    {
+      "symbol": "EDUUSDT",
+      "trade_count": 9360,
+      "volume": 563015.35
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 8514,
+      "volume": 218470.56
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 7770,
+      "volume": 625841.29
+    },
+    {
+      "symbol": "MAGMAUSDT",
+      "trade_count": 6469,
+      "volume": 169158.84
+    },
+    {
+      "symbol": "AINUSDT",
+      "trade_count": 5080,
+      "volume": 224088.99
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 5004,
+      "volume": 470279.45
+    },
+    {
+      "symbol": "NOMUSDT",
+      "trade_count": 4262,
+      "volume": 318770.12
+    },
+    {
+      "symbol": "0GUSDT",
+      "trade_count": 4134,
+      "volume": 359109.68
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 4099,
+      "volume": 168378.34
+    },
+    {
+      "symbol": "LITUSDT",
+      "trade_count": 3106,
+      "volume": 157419.96
+    },
+    {
+      "symbol": "TRUUSDT",
+      "trade_count": 3058,
+      "volume": 165803.46
+    },
+    {
+      "symbol": "SKYAIUSDT",
+      "trade_count": 2968,
+      "volume": 241202.51
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 2858,
+      "volume": 213965.63
+    }
+  ]
+}
