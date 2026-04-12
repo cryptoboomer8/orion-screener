@@ -1,0 +1,87 @@
+name: Crypto Momentum Snapshot
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour on the hour
+  workflow_dispatch:        # also allows manual runs from the GitHub UI
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # needed to commit files back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run snapshot session and download outputs
+        run: |
+          pip install anthropic
+
+          python - <<'EOF'
+          import anthropic
+          import os
+          import time
+
+          client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+
+          AGENT_ID = os.environ["CRYPTO_AGENT_ID"]
+          ENVIRONMENT_ID = os.environ["CRYPTO_ENVIRONMENT_ID"]
+
+          # 1. Create session
+          session = client.beta.sessions.create(
+              agent=AGENT_ID,
+              environment_id=ENVIRONMENT_ID,
+              title="Crypto Snapshot (hourly cron)",
+              betas=["managed-agents-2026-04-01"],
+          )
+          print(f"Session started: {session.id}")
+
+          # 2. Stream until terminated
+          for event in client.beta.sessions.events.stream(
+              session_id=session.id,
+              betas=["managed-agents-2026-04-01"],
+          ):
+              if hasattr(event, "type"):
+                  if event.type == "agent.message":
+                      print(event)
+                  if event.type == "session.status_terminated":
+                      print("Session complete.")
+                      break
+
+          # 3. Brief pause for output file indexing
+          time.sleep(3)
+
+          # 4. Download snapshot files written to /mnt/session/outputs/
+          os.makedirs("snapshots", exist_ok=True)
+          files = client.beta.files.list(betas=["files-api-2025-04-14"])
+          downloaded = 0
+          for f in files:
+              # Filter to files from this session
+              if not f.filename.startswith("snapshot_"):
+                  continue
+              dest = os.path.join("snapshots", f.filename)
+              if os.path.exists(dest):
+                  continue  # already committed in a previous run
+              response = client.beta.files.download(f.id, betas=["files-api-2025-04-14"])
+              with open(dest, "wb") as out:
+                  out.write(response.read())
+              print(f"Downloaded: {dest}")
+              downloaded += 1
+
+          print(f"Total new files downloaded: {downloaded}")
+          EOF
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CRYPTO_AGENT_ID: ${{ secrets.CRYPTO_AGENT_ID }}
+          CRYPTO_ENVIRONMENT_ID: ${{ secrets.CRYPTO_ENVIRONMENT_ID }}
+
+      - name: Commit snapshots to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add snapshots/
+          # Only commit if there's something new
+          git diff --cached --quiet || git commit -m "chore: add crypto snapshot $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
