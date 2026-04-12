@@ -56,33 +56,33 @@ jobs:
               betas=["managed-agents-2026-04-01"],
           )
 
-            # 3. Stream until the turn is done
-            try:
-                for event in client.beta.sessions.events.stream(
-                    session_id=session.id,
-                    betas=["managed-agents-2026-04-01"],
-                ):
-                    et = getattr(event, "type", None)
-                    if et == "agent.message":
-                        print(event)
+          # 3. Stream until the turn is done
+          try:
+              for event in client.beta.sessions.events.stream(
+                  session_id=session.id,
+                  betas=["managed-agents-2026-04-01"],
+              ):
+                  et = getattr(event, "type", None)
+                  if et == "agent.message":
+                      print(event)
 
-                    elif et == "session.status_idle":
-                        stop_reason = getattr(event, "stop_reason", None)
-                        stop_type = getattr(stop_reason, "type", None) if stop_reason else None
+                  elif et == "session.status_idle":
+                      stop_reason = getattr(event, "stop_reason", None)
+                      stop_type = getattr(stop_reason, "type", None) if stop_reason else None
 
-                        if stop_type == "end_turn":
-                            print("Turn complete.")
-                            break
-                        elif stop_type == "requires_action":
-                            raise RuntimeError("Session is idle waiting for action/tool confirmation")
+                      if stop_type == "end_turn":
+                          print("Turn complete.")
+                          break
+                      elif stop_type == "requires_action":
+                          raise RuntimeError("Session is idle waiting for action/tool confirmation")
 
-                    elif et == "session.status_terminated":
-                        raise RuntimeError("Session terminated with an unrecoverable error")
+                  elif et == "session.status_terminated":
+                      raise RuntimeError("Session terminated with an unrecoverable error")
 
-            except TimeoutError:
-                print("WARNING: session stream timed out after 4m30s — proceeding to file download.")
-            finally:
-                signal.alarm(0)
+          except TimeoutError:
+              print("WARNING: session stream timed out after 4m30s — proceeding to file download.")
+          finally:
+              signal.alarm(0)
 
           # 4. Brief pause for output file indexing
           time.sleep(3)
