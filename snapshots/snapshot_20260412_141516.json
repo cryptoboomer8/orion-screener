@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-12T14:15:16+02:00",
+  "top_20": [
+    {
+      "symbol": "AINUSDT",
+      "trade_count": 32995,
+      "volume": 2265223.07
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 21183,
+      "volume": 1442522.47
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 19236,
+      "volume": 1427376.94
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 17953,
+      "volume": 1596409.7
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 17488,
+      "volume": 815443.83
+    },
+    {
+      "symbol": "DASHUSDT",
+      "trade_count": 12719,
+      "volume": 2914524.27
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 11766,
+      "volume": 901317.81
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 11461,
+      "volume": 976710.26
+    },
+    {
+      "symbol": "MAGMAUSDT",
+      "trade_count": 10692,
+      "volume": 219146.32
+    },
+    {
+      "symbol": "BANUSDT",
+      "trade_count": 9502,
+      "volume": 589774.48
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 7463,
+      "volume": 11268787.37
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 6843,
+      "volume": 26126117.44
+    },
+    {
+      "symbol": "DUSDT",
+      "trade_count": 5757,
+      "volume": 322066.64
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 5710,
+      "volume": 322813.47
+    },
+    {
+      "symbol": "TRUUSDT",
+      "trade_count": 5470,
+      "volume": 314131.96
+    },
+    {
+      "symbol": "SKYAIUSDT",
+      "trade_count": 5087,
+      "volume": 417714.1
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 4889,
+      "volume": 1165913.8
+    },
+    {
+      "symbol": "FFUSDT",
+      "trade_count": 4882,
+      "volume": 490528.56
+    },
+    {
+      "symbol": "BEATUSDT",
+      "trade_count": 4155,
+      "volume": 250674.4
+    },
+    {
+      "symbol": "BASUSDT",
+      "trade_count": 3637,
+      "volume": 212129.97
+    }
+  ]
+}
