@@ -88,22 +88,54 @@ jobs:
           time.sleep(3)
 
           # 5. Download snapshot files written to /mnt/session/outputs/
-          os.makedirs("snapshots", exist_ok=True)
-          files = client.beta.files.list(betas=["files-api-2025-04-14"])
-          downloaded = 0
-          for f in files:
-              # Filter to files from this session
-              if not f.filename.startswith("snapshot_"):
+            os.makedirs("snapshots", exist_ok=True)
+            
+            outputs = []
+          for attempt in range(4):  # initial try + retries for indexing lag
+            try:
+              # Preferred form
+              outputs = list(client.beta.files.list(
+              session_id=session.id,
+              betas=["files-api-2025-04-14"],
+              ))
+            except TypeError:
+              # Some SDK variants may use scope_id instead
+              outputs = list(client.beta.files.list(
+              scope_id=session.id,
+              betas=["files-api-2025-04-14"],
+              ))
+            
+            # Keep only downloadable files if that attribute exists
+            outputs = [f for f in outputs if getattr(f, "downloadable", True)]
+            
+            if outputs:
+              break
+            
+            print(f"No session files yet; retrying ({attempt + 1}/4)...")
+            time.sleep(2)
+            
+            downloaded = 0
+          for f in outputs:
+            if not f.filename.startswith("snapshot_"):
+              continue
+            
+            dest = os.path.join("snapshots", f.filename)
+            
+            # Optional: skip if already present
+            if os.path.exists(dest):
+              print(f"Already exists, skipping: {dest}")
                   continue
-              dest = os.path.join("snapshots", f.filename)
-              if os.path.exists(dest):
-                  continue  # already committed in a previous run
-              response = client.beta.files.download(f.id, betas=["files-api-2025-04-14"])
-              with open(dest, "wb") as out:
-                  out.write(response.read())
-              print(f"Downloaded: {dest}")
+          
+              response = client.beta.files.download(
+                  f.id,
+                  betas=["files-api-2025-04-14"],
+            )
+            with open(dest, "wb") as out:
+              out.write(response.read())
+            
+            print(f"Downloaded: {dest}")
               downloaded += 1
-
+          
           print(f"Total new files downloaded: {downloaded}")
           EOF
         env:
