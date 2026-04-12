@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-09T10:02:25+02:00",
+  "top_20": [
+    {"symbol": "STOUSDT", "trade_count": 47570, "volume": 3530000},
+    {"symbol": "SIRENUSDT", "trade_count": 24070, "volume": 983170},
+    {"symbol": "TNSRUSDT", "trade_count": 23480, "volume": 1880000},
+    {"symbol": "ARIAUSDT", "trade_count": 22220, "volume": 2190000},
+    {"symbol": "BLURUSDT", "trade_count": 16600, "volume": 3170000},
+    {"symbol": "LABUSDT", "trade_count": 7910, "volume": 129540},
+    {"symbol": "ETHUSDT", "trade_count": 7900, "volume": 10460000},
+    {"symbol": "ONGUSDT", "trade_count": 7810, "volume": 321750},
+    {"symbol": "FUNUSDT", "trade_count": 6660, "volume": 593650},
+    {"symbol": "ENJUSDT", "trade_count": 5770, "volume": 987790},
+    {"symbol": "BULLAUSDT", "trade_count": 5340, "volume": 318570},
+    {"symbol": "DEGOUSDT", "trade_count": 4910, "volume": 703270},
+    {"symbol": "DYMUSDT", "trade_count": 4510, "volume": 311140},
+    {"symbol": "ZECUSDT", "trade_count": 4450, "volume": 1010000},
+    {"symbol": "AGTUSDT", "trade_count": 4400, "volume": 346090},
+    {"symbol": "FARTCOINUSDT", "trade_count": 4380, "volume": 1020000},
+    {"symbol": "MUSDT", "trade_count": 4340, "volume": 146600},
+    {"symbol": "FIOUSDT", "trade_count": 4020, "volume": 123680},
+    {"symbol": "BTCUSDT", "trade_count": 4000, "volume": 10530000},
+    {"symbol": "4USDT", "trade_count": 3980, "volume": 124790}
+  ]
+}

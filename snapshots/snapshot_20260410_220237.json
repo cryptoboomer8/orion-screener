@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-10T22:02:37+02:00",
+  "top_20": [
+    {"symbol": "FFUSDT", "trade_count": 83480, "volume": 7950000},
+    {"symbol": "SIRENUSDT", "trade_count": 57310, "volume": 2550000},
+    {"symbol": "RAVEUSDT", "trade_count": 31530, "volume": 1910000},
+    {"symbol": "BULLAUSDT", "trade_count": 21460, "volume": 832460},
+    {"symbol": "BTCUSDT", "trade_count": 20860, "volume": 85440000},
+    {"symbol": "ARIAUSDT", "trade_count": 19090, "volume": 1330000},
+    {"symbol": "ETHUSDT", "trade_count": 17360, "volume": 25550000},
+    {"symbol": "ZECUSDT", "trade_count": 14560, "volume": 4790000},
+    {"symbol": "1000PEPEUSDT", "trade_count": 11690, "volume": 3720000},
+    {"symbol": "AVNTUSDT", "trade_count": 7670, "volume": 1140000},
+    {"symbol": "MAGMAUSDT", "trade_count": 6810, "volume": 170510},
+    {"symbol": "LABUSDT", "trade_count": 6300, "volume": 180090},
+    {"symbol": "BTCUSDC", "trade_count": 6000, "volume": 21900000},
+    {"symbol": "DOGEUSDT", "trade_count": 5680, "volume": 2430000},
+    {"symbol": "SOLUSDT", "trade_count": 4650, "volume": 6380000},
+    {"symbol": "TAOUSDT", "trade_count": 4620, "volume": 963410},
+    {"symbol": "ETHUSDC", "trade_count": 4240, "volume": 8170000},
+    {"symbol": "币安人生USDT", "trade_count": 4090, "volume": 337840},
+    {"symbol": "4USDT", "trade_count": 3480, "volume": 137330},
+    {"symbol": "XRPUSDT", "trade_count": 3370, "volume": 3170000}
+  ]
+}

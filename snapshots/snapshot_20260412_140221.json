@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-12T14:02:21+02:00",
+  "top_20": [
+    {"symbol": "RAVEUSDT", "trade_count": 28930, "volume": 2550000},
+    {"symbol": "ENJUSDT", "trade_count": 25150, "volume": 2390000},
+    {"symbol": "SIRENUSDT", "trade_count": 18280, "volume": 987660},
+    {"symbol": "TRADOORUSDT", "trade_count": 12880, "volume": 968000},
+    {"symbol": "ARIAUSDT", "trade_count": 12050, "volume": 1040000},
+    {"symbol": "MAGMAUSDT", "trade_count": 11310, "volume": 293810},
+    {"symbol": "ETHUSDT", "trade_count": 10870, "volume": 14960000},
+    {"symbol": "ZECUSDT", "trade_count": 9520, "volume": 3000000},
+    {"symbol": "AINUSDT", "trade_count": 8710, "volume": 532360},
+    {"symbol": "AIOTUSDT", "trade_count": 8590, "volume": 641550},
+    {"symbol": "BTCUSDT", "trade_count": 7770, "volume": 36310000},
+    {"symbol": "SKYAIUSDT", "trade_count": 7110, "volume": 541030},
+    {"symbol": "TRUUSDT", "trade_count": 6180, "volume": 475230},
+    {"symbol": "PLAYUSDT", "trade_count": 6160, "volume": 396740},
+    {"symbol": "VELVETUSDT", "trade_count": 4800, "volume": 347060},
+    {"symbol": "BNXUSDT", "trade_count": 4610, "volume": 430080},
+    {"symbol": "BULLAUSDT", "trade_count": 4280, "volume": 132340},
+    {"symbol": "LABUSDT", "trade_count": 4230, "volume": 69590},
+    {"symbol": "NOMUSDT", "trade_count": 4080, "volume": 270190},
+    {"symbol": "XNYUSDT", "trade_count": 3700, "volume": 184520}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-12T13:02:21+02:00",
+  "top_20": [
+    {"symbol": "RAVEUSDT", "trade_count": 48520, "volume": 4590000},
+    {"symbol": "ETHUSDT", "trade_count": 36760, "volume": 93370000},
+    {"symbol": "AINUSDT", "trade_count": 28280, "volume": 1880000},
+    {"symbol": "SIRENUSDT", "trade_count": 16100, "volume": 563940},
+    {"symbol": "ARIAUSDT", "trade_count": 15580, "volume": 1420000},
+    {"symbol": "BNUSDT", "trade_count": 13300, "volume": 1440000},
+    {"symbol": "AIOTUSDT", "trade_count": 13260, "volume": 1100000},
+    {"symbol": "MAGMAUSDT", "trade_count": 13130, "volume": 327430},
+    {"symbol": "TAOUSDT", "trade_count": 11050, "volume": 2910000},
+    {"symbol": "TRADOORUSDT", "trade_count": 10780, "volume": 779500},
+    {"symbol": "ENJUSDT", "trade_count": 10680, "volume": 728360},
+    {"symbol": "ZECUSDT", "trade_count": 10260, "volume": 4690000},
+    {"symbol": "FFUSDT", "trade_count": 9320, "volume": 1000000},
+    {"symbol": "NOMUSDT", "trade_count": 9040, "volume": 637470},
+    {"symbol": "TRUUSDT", "trade_count": 7900, "volume": 503830},
+    {"symbol": "BTCUSDT", "trade_count": 7710, "volume": 23720000},
+    {"symbol": "ETHUSDC", "trade_count": 7340, "volume": 24410000},
+    {"symbol": "SKYAIUSDT", "trade_count": 7280, "volume": 549890},
+    {"symbol": "IRUSDT", "trade_count": 7230, "volume": 487780},
+    {"symbol": "DASHUSDT", "trade_count": 5850, "volume": 1130000}
+  ]
+}

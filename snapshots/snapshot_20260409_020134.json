@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-09T02:01:34+02:00",
+  "top_20": [
+    {"symbol": "FARTCOINUSDT", "trade_count": 36700, "volume": 6740000},
+    {"symbol": "SIRENUSDT", "trade_count": 18730, "volume": 979950},
+    {"symbol": "ENJUSDT", "trade_count": 15120, "volume": 2320000},
+    {"symbol": "4USDT", "trade_count": 14710, "volume": 601900},
+    {"symbol": "BLURUSDT", "trade_count": 12220, "volume": 2170000},
+    {"symbol": "ARIAUSDT", "trade_count": 10870, "volume": 1000000},
+    {"symbol": "ETHUSDT", "trade_count": 10580, "volume": 9920000},
+    {"symbol": "ZECUSDT", "trade_count": 8790, "volume": 2670000},
+    {"symbol": "NXPCUSDT", "trade_count": 8400, "volume": 587650},
+    {"symbol": "BTCUSDT", "trade_count": 7070, "volume": 14510000},
+    {"symbol": "STOUSDT", "trade_count": 6520, "volume": 459860},
+    {"symbol": "LABUSDT", "trade_count": 5640, "volume": 95920},
+    {"symbol": "JOEUSDT", "trade_count": 5580, "volume": 406170},
+    {"symbol": "BNBUSDT", "trade_count": 4800, "volume": 736010},
+    {"symbol": "ONGUSDT", "trade_count": 4570, "volume": 485730},
+    {"symbol": "HYPEUSDT", "trade_count": 4540, "volume": 1380000},
+    {"symbol": "XMRUSDT", "trade_count": 4440, "volume": 396700},
+    {"symbol": "BULLAUSDT", "trade_count": 4040, "volume": 270100},
+    {"symbol": "REDUSDT", "trade_count": 3640, "volume": 630940},
+    {"symbol": "BNANRSUSDT", "trade_count": 3420, "volume": 415380}
+  ]
+}

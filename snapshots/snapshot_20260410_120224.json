@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-10T12:02:24+02:00",
+  "top_20": [
+    {"symbol": "LABUSDT", "trade_count": 35040, "volume": 1200000},
+    {"symbol": "NOMUSDT", "trade_count": 31700, "volume": 1990000},
+    {"symbol": "RAVEUSDT", "trade_count": 21360, "volume": 1610000},
+    {"symbol": "SIRENUSDT", "trade_count": 17450, "volume": 790240},
+    {"symbol": "ARIAUSDT", "trade_count": 16090, "volume": 1140000},
+    {"symbol": "ZECUSDT", "trade_count": 14940, "volume": 5420000},
+    {"symbol": "DASHUSDT", "trade_count": 13450, "volume": 2650000},
+    {"symbol": "TRADOORUSDT", "trade_count": 13130, "volume": 1140000},
+    {"symbol": "TAOUSDT", "trade_count": 10090, "volume": 2210000},
+    {"symbol": "MAGMAUSDT", "trade_count": 10010, "volume": 434360},
+    {"symbol": "SOLUSDT", "trade_count": 6230, "volume": 11740000},
+    {"symbol": "ETHUSDT", "trade_count": 5620, "volume": 9210000},
+    {"symbol": "BTCUSDT", "trade_count": 4980, "volume": 13770000},
+    {"symbol": "XVGUSDT", "trade_count": 4560, "volume": 407800},
+    {"symbol": "BASUSDT", "trade_count": 4060, "volume": 275950},
+    {"symbol": "BULLAUSDT", "trade_count": 4040, "volume": 296260},
+    {"symbol": "ONGUSDT", "trade_count": 3490, "volume": 217390},
+    {"symbol": "DRIFTUSDT", "trade_count": 3270, "volume": 169650},
+    {"symbol": "MONUSDT", "trade_count": 3240, "volume": 540470},
+    {"symbol": "CYSUSDT", "trade_count": 3220, "volume": 148420}
+  ]
+}

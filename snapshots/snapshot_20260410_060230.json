@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-10T06:02:30+02:00",
+  "top_20": [
+    {"symbol": "TAOUSDT", "trade_count": 54970, "volume": 17150000},
+    {"symbol": "RAVEUSDT", "trade_count": 34710, "volume": 1970000},
+    {"symbol": "SIRENUSDT", "trade_count": 20000, "volume": 793290},
+    {"symbol": "BULLAUSDT", "trade_count": 19620, "volume": 2000000},
+    {"symbol": "TNSRUSDT", "trade_count": 16220, "volume": 1060000},
+    {"symbol": "MAGMAUSDT", "trade_count": 14690, "volume": 434650},
+    {"symbol": "ZECUSDT", "trade_count": 11920, "volume": 4710000},
+    {"symbol": "LABUSDT", "trade_count": 10020, "volume": 255450},
+    {"symbol": "AKEUSDT", "trade_count": 7210, "volume": 533190},
+    {"symbol": "CFGUSDT", "trade_count": 6530, "volume": 704490},
+    {"symbol": "ARIAUSDT", "trade_count": 5920, "volume": 500510},
+    {"symbol": "MONUSDT", "trade_count": 5510, "volume": 887850},
+    {"symbol": "CHILLGUYUSDT", "trade_count": 5440, "volume": 279440},
+    {"symbol": "ETHUSDT", "trade_count": 5070, "volume": 6070000},
+    {"symbol": "BNBLIFEUSDT", "trade_count": 4680, "volume": 517650},
+    {"symbol": "ZEREBROUSDT", "trade_count": 4540, "volume": 323920},
+    {"symbol": "AGTUSDT", "trade_count": 4030, "volume": 173630},
+    {"symbol": "DASHUSDT", "trade_count": 3880, "volume": 701340},
+    {"symbol": "RIVERUSDT", "trade_count": 3790, "volume": 216150},
+    {"symbol": "ENJUSDT", "trade_count": 3770, "volume": 320220}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-09T03:02:11+02:00",
+  "top_20": [
+    {"symbol": "4USDT", "trade_count": 19430, "volume": 657060},
+    {"symbol": "ETHUSDT", "trade_count": 16140, "volume": 17440000},
+    {"symbol": "BTCUSDT", "trade_count": 11350, "volume": 21150000},
+    {"symbol": "SIRENUSDT", "trade_count": 10550, "volume": 325390},
+    {"symbol": "DRIFTUSDT", "trade_count": 7900, "volume": 664940},
+    {"symbol": "ARIAUSDT", "trade_count": 6600, "volume": 490520},
+    {"symbol": "ENJUSDT", "trade_count": 6050, "volume": 872280},
+    {"symbol": "ZECUSDT", "trade_count": 5780, "volume": 1200000},
+    {"symbol": "FARTCOINUSDT", "trade_count": 5730, "volume": 1100000},
+    {"symbol": "LABUSDT", "trade_count": 5310, "volume": 89420},
+    {"symbol": "REDUSDT", "trade_count": 5290, "volume": 562640},
+    {"symbol": "BULLAUSDT", "trade_count": 5140, "volume": 264220},
+    {"symbol": "INUSDT", "trade_count": 4810, "volume": 287390},
+    {"symbol": "BNBUSDT", "trade_count": 4430, "volume": 1730000},
+    {"symbol": "TAOUSDT", "trade_count": 4170, "volume": 609270},
+    {"symbol": "RIVERUSDT", "trade_count": 3830, "volume": 343890},
+    {"symbol": "SOLUSDT", "trade_count": 3730, "volume": 2920000},
+    {"symbol": "DOGEUSDT", "trade_count": 3670, "volume": 1820000},
+    {"symbol": "GRIFFAINUSDT", "trade_count": 3580, "volume": 88470},
+    {"symbol": "KERNELUSDT", "trade_count": 3500, "volume": 274640}
+  ]
+}

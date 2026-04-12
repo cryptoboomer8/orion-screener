@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-10T04:03:05+02:00",
+  "top_20": [
+    {"symbol": "RAVEUSDT", "trade_count": 44870, "volume": 2210000},
+    {"symbol": "MAGMAUSDT", "trade_count": 35140, "volume": 908120},
+    {"symbol": "ETHUSDT", "trade_count": 18100, "volume": 29780000},
+    {"symbol": "TAOUSDT", "trade_count": 15380, "volume": 3550000},
+    {"symbol": "ARIAUSDT", "trade_count": 13620, "volume": 947580},
+    {"symbol": "BTCUSDT", "trade_count": 10750, "volume": 29010000},
+    {"symbol": "ZECUSDT", "trade_count": 9740, "volume": 3140000},
+    {"symbol": "SIRENUSDT", "trade_count": 9180, "volume": 315470},
+    {"symbol": "SOLUSDT", "trade_count": 9090, "volume": 9650000},
+    {"symbol": "VVVVVUSDT", "trade_count": 8280, "volume": 790180},
+    {"symbol": "HUMAUSDT", "trade_count": 8190, "volume": 428720},
+    {"symbol": "HYPEUSDT", "trade_count": 6830, "volume": 2460000},
+    {"symbol": "AKEUSDT", "trade_count": 6140, "volume": 355840},
+    {"symbol": "1000PEPEUSDT", "trade_count": 5180, "volume": 1280000},
+    {"symbol": "ETHUSDC", "trade_count": 4740, "volume": 11640000},
+    {"symbol": "TNSRUSDT", "trade_count": 4140, "volume": 197590},
+    {"symbol": "DASHUSDT", "trade_count": 4040, "volume": 750950},
+    {"symbol": "TURBOUSDT", "trade_count": 3830, "volume": 378000},
+    {"symbol": "RIVERUSDT", "trade_count": 3060, "volume": 199100},
+    {"symbol": "LABUSDT", "trade_count": 3000, "volume": 68610}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-11T10:03:43+02:00",
+  "top_20": [
+    {"symbol": "BULLAUSDT", "trade_count": 42910, "volume": 3060000},
+    {"symbol": "SIRENUSDT", "trade_count": 23990, "volume": 926280},
+    {"symbol": "RAVEUSDT", "trade_count": 21710, "volume": 5610000},
+    {"symbol": "CROSSUSDT", "trade_count": 12830, "volume": 1030000},
+    {"symbol": "ARIAUSDT", "trade_count": 11770, "volume": 647080},
+    {"symbol": "MAGMAUSDT", "trade_count": 7620, "volume": 159750},
+    {"symbol": "LABUSDT", "trade_count": 5930, "volume": 115170},
+    {"symbol": "IDUSDT", "trade_count": 5880, "volume": 705050},
+    {"symbol": "TRADOORUSDT", "trade_count": 5700, "volume": 363910},
+    {"symbol": "FFUSDT", "trade_count": 4830, "volume": 548460},
+    {"symbol": "HUSDT", "trade_count": 4440, "volume": 466260},
+    {"symbol": "RIVERUSDT", "trade_count": 4280, "volume": 272500},
+    {"symbol": "ZECUSDT", "trade_count": 4220, "volume": 1130000},
+    {"symbol": "币安人生USDT", "trade_count": 4220, "volume": 493390},
+    {"symbol": "AKEUSDT", "trade_count": 3820, "volume": 304110},
+    {"symbol": "ONGUSDT", "trade_count": 3780, "volume": 359530},
+    {"symbol": "ETHUSDT", "trade_count": 3710, "volume": 7100000},
+    {"symbol": "AIOUSDT", "trade_count": 3540, "volume": 180150},
+    {"symbol": "TAOUSDT", "trade_count": 3290, "volume": 697880},
+    {"symbol": "TONUSDT", "trade_count": 3250, "volume": 394290}
+  ]
+}

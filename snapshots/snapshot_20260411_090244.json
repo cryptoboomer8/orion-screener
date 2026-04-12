@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-11T09:02:44+02:00",
+  "top_20": [
+    {"symbol": "RAVEUSDT", "trade_count": 48540, "volume": 4290000},
+    {"symbol": "CROSSUSDT", "trade_count": 32810, "volume": 2150000},
+    {"symbol": "BULLAUSDT", "trade_count": 19130, "volume": 939530},
+    {"symbol": "IDUSDT", "trade_count": 18220, "volume": 2250000},
+    {"symbol": "SIRENUSDT", "trade_count": 16440, "volume": 547860},
+    {"symbol": "LABUSDT", "trade_count": 9760, "volume": 334010},
+    {"symbol": "ARIAUSDT", "trade_count": 8730, "volume": 475880},
+    {"symbol": "币安人生USDT", "trade_count": 8510, "volume": 1010000},
+    {"symbol": "DUSKUSDT", "trade_count": 8060, "volume": 505850},
+    {"symbol": "FFUSDT", "trade_count": 7610, "volume": 650380},
+    {"symbol": "NOMUSDT", "trade_count": 4850, "volume": 311030},
+    {"symbol": "MMTUSDT", "trade_count": 4810, "volume": 935470},
+    {"symbol": "ETHUSDT", "trade_count": 4660, "volume": 6880000},
+    {"symbol": "MAGMAUSDT", "trade_count": 4270, "volume": 93540},
+    {"symbol": "ZECUSDT", "trade_count": 4160, "volume": 846160},
+    {"symbol": "BANANAS31USDT", "trade_count": 3800, "volume": 166950},
+    {"symbol": "TAOUSDT", "trade_count": 3510, "volume": 463860},
+    {"symbol": "DASHUSDT", "trade_count": 3270, "volume": 548390},
+    {"symbol": "RIVERUSDT", "trade_count": 3260, "volume": 235250},
+    {"symbol": "SOONUSDT", "trade_count": 2900, "volume": 334150}
+  ]
+}
