@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-12T15:54:00+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 63716,
+      "volume": 7767957.967149999
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 27376,
+      "volume": 2237685.54478
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 26854,
+      "volume": 2301699.66776
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 21809,
+      "volume": 26608277.50481
+    },
+    {
+      "symbol": "AINUSDT",
+      "trade_count": 14765,
+      "volume": 1107689.94753
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 12543,
+      "volume": 944609.4960999999
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 10631,
+      "volume": 30295697.249399997
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 9763,
+      "volume": 369844.23954
+    },
+    {
+      "symbol": "MAGMAUSDT",
+      "trade_count": 6934,
+      "volume": 162173.40519999998
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 6561,
+      "volume": 448075.87
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 6325,
+      "volume": 2121325.3491885
+    },
+    {
+      "symbol": "CATIUSDT",
+      "trade_count": 6298,
+      "volume": 341171.68359
+    },
+    {
+      "symbol": "MONUSDT",
+      "trade_count": 6080,
+      "volume": 429756.28328
+    },
+    {
+      "symbol": "AKEUSDT",
+      "trade_count": 5416,
+      "volume": 155046.7673053
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 5305,
+      "volume": 1198900.6189100002
+    },
+    {
+      "symbol": "4USDT",
+      "trade_count": 5190,
+      "volume": 188864.193128
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 4519,
+      "volume": 75199.3857
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 4446,
+      "volume": 135287.77606
+    },
+    {
+      "symbol": "TRUUSDT",
+      "trade_count": 4128,
+      "volume": 170506.340898
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 3794,
+      "volume": 7755211.316219999
+    }
+  ]
+}
