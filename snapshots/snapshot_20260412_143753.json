@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-12T14:37:53+02:00",
+  "top_20": [
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 92614,
+      "volume": 9125802.08
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 57045,
+      "volume": 6184610.76
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 16116,
+      "volume": 1388431.28
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 13083,
+      "volume": 870195.85
+    },
+    {
+      "symbol": "TRUUSDT",
+      "trade_count": 12388,
+      "volume": 693740.88
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 11228,
+      "volume": 329170.51
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 10384,
+      "volume": 34286663.15
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 8919,
+      "volume": 3045133.98
+    },
+    {
+      "symbol": "SKYAIUSDT",
+      "trade_count": 7942,
+      "volume": 614733.69
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 7248,
+      "volume": 817732.59
+    },
+    {
+      "symbol": "AINUSDT",
+      "trade_count": 6632,
+      "volume": 388007.28
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 5880,
+      "volume": 367133.49
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 5861,
+      "volume": 229605.3
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 5612,
+      "volume": 15795631.7
+    },
+    {
+      "symbol": "MAGMAUSDT",
+      "trade_count": 5299,
+      "volume": 84742.71
+    },
+    {
+      "symbol": "DASHUSDT",
+      "trade_count": 5134,
+      "volume": 791604.23
+    },
+    {
+      "symbol": "XRPUSDT",
+      "trade_count": 4921,
+      "volume": 5139584.54
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 3819,
+      "volume": 5348136.3
+    },
+    {
+      "symbol": "HUMAUSDT",
+      "trade_count": 3709,
+      "volume": 102891.06
+    },
+    {
+      "symbol": "BLUAIUSDT",
+      "trade_count": 3301,
+      "volume": 285854.96
+    }
+  ]
+}
