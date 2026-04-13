@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-13T09:09:11.370345+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 147842,
+      "volume": 32850193.88537
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 40695,
+      "volume": 3653894.959
+    },
+    {
+      "symbol": "INXUSDT",
+      "trade_count": 31138,
+      "volume": 2646982.595765
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 16636,
+      "volume": 2602620.733
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 13556,
+      "volume": 701594.0009999999
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 11588,
+      "volume": 1672144.39538
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 11314,
+      "volume": 19257015.963299997
+    },
+    {
+      "symbol": "DRIFTUSDT",
+      "trade_count": 9108,
+      "volume": 537231.11396
+    },
+    {
+      "symbol": "BANUSDT",
+      "trade_count": 8675,
+      "volume": 584945.69209
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 6948,
+      "volume": 2771161.93657
+    },
+    {
+      "symbol": "ROBOUSDT",
+      "trade_count": 6782,
+      "volume": 511445.90280000004
+    },
+    {
+      "symbol": "AKEUSDT",
+      "trade_count": 6430,
+      "volume": 256179.0763861
+    },
+    {
+      "symbol": "TAGUSDT",
+      "trade_count": 6380,
+      "volume": 292873.8891363
+    },
+    {
+      "symbol": "\u6211\u8e0f\u9a6c\u6765\u4e86USDT",
+      "trade_count": 6287,
+      "volume": 390257.118702
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 6171,
+      "volume": 231113.26545
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 5866,
+      "volume": 365134.37312999996
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 5620,
+      "volume": 12698781.081799999
+    },
+    {
+      "symbol": "TAOUSDT",
+      "trade_count": 4432,
+      "volume": 1882794.2556999999
+    },
+    {
+      "symbol": "IRYSUSDT",
+      "trade_count": 4426,
+      "volume": 199685.445189
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 4080,
+      "volume": 6678923.68966
+    }
+  ]
+}
