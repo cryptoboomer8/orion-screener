@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-13T19:33:37+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 108073,
+      "volume": 15793191.944390003
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 71289,
+      "volume": 135098461.65473
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 36949,
+      "volume": 191107136.92380002
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 23209,
+      "volume": 1250221.2989999999
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 20507,
+      "volume": 757902.3813189999
+    },
+    {
+      "symbol": "TSTUSDT",
+      "trade_count": 16857,
+      "volume": 1094170.272287
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 15712,
+      "volume": 43270135.97535
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 13351,
+      "volume": 4588216.501639999
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 11874,
+      "volume": 13672481.163299998
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "trade_count": 10165,
+      "volume": 4743725.22642
+    },
+    {
+      "symbol": "BTCUSDC",
+      "trade_count": 9219,
+      "volume": 35319588.0007
+    },
+    {
+      "symbol": "TAOUSDT",
+      "trade_count": 7029,
+      "volume": 1487937.91846
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 6655,
+      "volume": 1336081.1701242002
+    },
+    {
+      "symbol": "XRPUSDT",
+      "trade_count": 6459,
+      "volume": 5899316.40317
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 6329,
+      "volume": 444760.7537
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 6213,
+      "volume": 415787.80140000005
+    },
+    {
+      "symbol": "ENAUSDT",
+      "trade_count": 6209,
+      "volume": 1594385.39907
+    },
+    {
+      "symbol": "BNBUSDT",
+      "trade_count": 6196,
+      "volume": 3505127.3069
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 5629,
+      "volume": 418101.87036
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "trade_count": 5565,
+      "volume": 2200084.722
+    }
+  ]
+}
