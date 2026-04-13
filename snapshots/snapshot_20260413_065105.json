@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-13T06:51:05.221190+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 53728,
+      "volume": 10223577.3003
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 15494,
+      "volume": 904792.4622
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 14109,
+      "volume": 576432.1678
+    },
+    {
+      "symbol": "INXUSDT",
+      "trade_count": 11492,
+      "volume": 909704.5087
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 10793,
+      "volume": 426601.1296
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 7550,
+      "volume": 671388.685
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 7490,
+      "volume": 676321.5581
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 7082,
+      "volume": 342763.857
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 5924,
+      "volume": 7243747.6232
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 5618,
+      "volume": 352040.371
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "trade_count": 5065,
+      "volume": 734604.802
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 5045,
+      "volume": 1122253.2374
+    },
+    {
+      "symbol": "WLDUSDT",
+      "trade_count": 4651,
+      "volume": 1996438.6923
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 4411,
+      "volume": 103008.6833
+    },
+    {
+      "symbol": "AKEUSDT",
+      "trade_count": 4261,
+      "volume": 84358.2304
+    },
+    {
+      "symbol": "XNYUSDT",
+      "trade_count": 4023,
+      "volume": 170001.8497
+    },
+    {
+      "symbol": "SKYAIUSDT",
+      "trade_count": 3973,
+      "volume": 168296.2476
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 3817,
+      "volume": 7885540.4582
+    },
+    {
+      "symbol": "IRYSUSDT",
+      "trade_count": 3398,
+      "volume": 140467.7119
+    },
+    {
+      "symbol": "STOUSDT",
+      "trade_count": 3216,
+      "volume": 186226.0178
+    }
+  ]
+}
