@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-13T17:48:51+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 23619,
+      "volume": 5395240.09
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 21156,
+      "volume": 28577869.18
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 17716,
+      "volume": 772526.01
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 13656,
+      "volume": 821523.85
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 12938,
+      "volume": 740802.39
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 12815,
+      "volume": 30156719.25
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 12514,
+      "volume": 711141.25
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 11817,
+      "volume": 524763.4
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 10850,
+      "volume": 1445582.7
+    },
+    {
+      "symbol": "BEATUSDT",
+      "trade_count": 9548,
+      "volume": 708959.75
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 9236,
+      "volume": 2385790.45
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 7570,
+      "volume": 11519299.63
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 6715,
+      "volume": 492221.66
+    },
+    {
+      "symbol": "LITUSDT",
+      "trade_count": 6129,
+      "volume": 509246.44
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 5292,
+      "volume": 427187.11
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 5276,
+      "volume": 13009404.1
+    },
+    {
+      "symbol": "MUSDT",
+      "trade_count": 5227,
+      "volume": 184875.49
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 5100,
+      "volume": 244793.14
+    },
+    {
+      "symbol": "TAOUSDT",
+      "trade_count": 5090,
+      "volume": 1234112.42
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 5030,
+      "volume": 290502.17
+    }
+  ]
+}
