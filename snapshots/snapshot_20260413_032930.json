@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-13T03:29:30.141745+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 84478,
+      "volume": 10988002.00183
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 14766,
+      "volume": 1939816.1600000001
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 12988,
+      "volume": 574850.09495
+    },
+    {
+      "symbol": "INXUSDT",
+      "trade_count": 11097,
+      "volume": 987138.9446109999
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 8321,
+      "volume": 308045.82106
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "trade_count": 7970,
+      "volume": 469047.59440100007
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 7851,
+      "volume": 9644203.93521
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 7469,
+      "volume": 381602.50299999997
+    },
+    {
+      "symbol": "BEATUSDT",
+      "trade_count": 6927,
+      "volume": 378880.86659999995
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 6351,
+      "volume": 1661388.28
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 5721,
+      "volume": 17551486.5517
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 5664,
+      "volume": 119735.08943999998
+    },
+    {
+      "symbol": "AIOUSDT",
+      "trade_count": 4193,
+      "volume": 310257.13674
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 3765,
+      "volume": 238537.245
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "trade_count": 3544,
+      "volume": 1292948.10811
+    },
+    {
+      "symbol": "AKEUSDT",
+      "trade_count": 3506,
+      "volume": 95750.6462584
+    },
+    {
+      "symbol": "FIGHTUSDT",
+      "trade_count": 3413,
+      "volume": 257219.411118
+    },
+    {
+      "symbol": "KITEUSDT",
+      "trade_count": 3410,
+      "volume": 123485.73603
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 3229,
+      "volume": 308988.4554
+    },
+    {
+      "symbol": "MAGMAUSDT",
+      "trade_count": 3189,
+      "volume": 65047.2779
+    }
+  ]
+}
