@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-13T11:27:07.486319+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 53836,
+      "volume": 7110687.6258
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 30810,
+      "volume": 3133075.2803
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 27883,
+      "volume": 1611117.228
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 25198,
+      "volume": 1882259.6817
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 23805,
+      "volume": 1000154.7224
+    },
+    {
+      "symbol": "FIGHTUSDT",
+      "trade_count": 17768,
+      "volume": 1281685.5607
+    },
+    {
+      "symbol": "INXUSDT",
+      "trade_count": 15173,
+      "volume": 1095995.3059
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 12236,
+      "volume": 393999.303
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 11619,
+      "volume": 618359.2801
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 9395,
+      "volume": 1027291.2059
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 7466,
+      "volume": 166657.4341
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 6839,
+      "volume": 247863.8253
+    },
+    {
+      "symbol": "AIOUSDT",
+      "trade_count": 4456,
+      "volume": 241572.1823
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 4419,
+      "volume": 5959405.1789
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 4302,
+      "volume": 321156.5109
+    },
+    {
+      "symbol": "DRIFTUSDT",
+      "trade_count": 3433,
+      "volume": 110728.205
+    },
+    {
+      "symbol": "EVAAUSDT",
+      "trade_count": 3284,
+      "volume": 97979.2507
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 2700,
+      "volume": 491730.5158
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 2543,
+      "volume": 93309.1475
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 2114,
+      "volume": 5077344.9939
+    }
+  ]
+}
