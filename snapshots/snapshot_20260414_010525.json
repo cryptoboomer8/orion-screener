@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-14T01:05:25.623439+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 179056,
+      "volume": 15931058.22287
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 110869,
+      "volume": 7484173.222120999
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 76559,
+      "volume": 117712420.92896
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 37391,
+      "volume": 3764246.9481999995
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 35493,
+      "volume": 109900328.9869
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 28076,
+      "volume": 1666454.36373
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 22625,
+      "volume": 36804221.6448
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 20901,
+      "volume": 7177270.4063
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 16823,
+      "volume": 26219668.624679998
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 12136,
+      "volume": 2906252.2828523
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 10920,
+      "volume": 639282.9265599999
+    },
+    {
+      "symbol": "ENAUSDT",
+      "trade_count": 10238,
+      "volume": 3046482.7721000006
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "trade_count": 9642,
+      "volume": 2465163.8927499996
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "trade_count": 7958,
+      "volume": 4790197.20326
+    },
+    {
+      "symbol": "XRPUSDT",
+      "trade_count": 7708,
+      "volume": 6418008.86153
+    },
+    {
+      "symbol": "TAOUSDT",
+      "trade_count": 7196,
+      "volume": 1231122.3440699999
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 6968,
+      "volume": 275279.56074
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 6777,
+      "volume": 339427.1988
+    },
+    {
+      "symbol": "BNBUSDT",
+      "trade_count": 6186,
+      "volume": 1970630.6937000002
+    },
+    {
+      "symbol": "SANDUSDT",
+      "trade_count": 6177,
+      "volume": 639624.00454
+    }
+  ]
+}
