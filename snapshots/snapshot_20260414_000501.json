@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-14T00:05:01.799108+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 102874,
+      "volume": 13469410.682939999
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 49365,
+      "volume": 2345666.8519840003
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 17555,
+      "volume": 4699586.71781
+    },
+    {
+      "symbol": "ENAUSDT",
+      "trade_count": 17550,
+      "volume": 2187863.70259
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 16872,
+      "volume": 16388913.653299998
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 10461,
+      "volume": 21881471.516000003
+    },
+    {
+      "symbol": "DUSDT",
+      "trade_count": 8363,
+      "volume": 617198.090245
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 7638,
+      "volume": 588171.7006
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 7428,
+      "volume": 319559.3544
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 7014,
+      "volume": 273495.00096
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 6814,
+      "volume": 829024.77658
+    },
+    {
+      "symbol": "XAUUSDT",
+      "trade_count": 6420,
+      "volume": 13826424.21912
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 6185,
+      "volume": 240785.93793000001
+    },
+    {
+      "symbol": "VVVUSDT",
+      "trade_count": 5406,
+      "volume": 324788.72604
+    },
+    {
+      "symbol": "TAOUSDT",
+      "trade_count": 5293,
+      "volume": 1168966.27535
+    },
+    {
+      "symbol": "STOUSDT",
+      "trade_count": 5061,
+      "volume": 367360.76797
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 4722,
+      "volume": 3789720.5847
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "trade_count": 4686,
+      "volume": 197280.77146000002
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "trade_count": 4334,
+      "volume": 1526768.32661
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 4242,
+      "volume": 227005.61679
+    }
+  ]
+}
