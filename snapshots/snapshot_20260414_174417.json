@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-14T17:44:17.978877+02:00",
+  "top_20": [
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 108177,
+      "volume": 8465119.93165
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 94058,
+      "volume": 3489392.37424
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 35727,
+      "volume": 7672095.90856
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 34016,
+      "volume": 62377622.9435
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 29307,
+      "volume": 920279.0444699998
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 26058,
+      "volume": 2172103.5579999997
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 24917,
+      "volume": 1692410.4479900002
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 17903,
+      "volume": 736862.847724
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 17731,
+      "volume": 2833928.98171
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 16856,
+      "volume": 56170736.4208
+    },
+    {
+      "symbol": "EDGEUSDT",
+      "trade_count": 13426,
+      "volume": 1203853.2506
+    },
+    {
+      "symbol": "BNBUSDT",
+      "trade_count": 10592,
+      "volume": 7749534.012700001
+    },
+    {
+      "symbol": "VVVUSDT",
+      "trade_count": 10017,
+      "volume": 522652.53750999994
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 9873,
+      "volume": 818217.4289
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "trade_count": 9045,
+      "volume": 3333113.9215900004
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 8163,
+      "volume": 2687278.23792
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 7498,
+      "volume": 531669.8047
+    },
+    {
+      "symbol": "COAIUSDT",
+      "trade_count": 7476,
+      "volume": 752114.2168
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 7319,
+      "volume": 19979201.43075
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "trade_count": 7067,
+      "volume": 3269658.1577100004
+    }
+  ]
+}
