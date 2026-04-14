@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-14T13:31:31+02:00",
+  "top_20": [
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 44192,
+      "volume": 2088643.761139
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 35397,
+      "volume": 1971985.63678
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 28241,
+      "volume": 4413976.47409
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 25130,
+      "volume": 1660263.8093
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 14238,
+      "volume": 27803113.167639997
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 12740,
+      "volume": 1743982.08539
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 12714,
+      "volume": 819547.0075
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "trade_count": 10561,
+      "volume": 10450693.86495
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 8113,
+      "volume": 519752.02619999996
+    },
+    {
+      "symbol": "ZAMAUSDT",
+      "trade_count": 7209,
+      "volume": 598498.41448
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 6584,
+      "volume": 1451819.490382
+    },
+    {
+      "symbol": "BARDUSDT",
+      "trade_count": 6365,
+      "volume": 838486.5292
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 6351,
+      "volume": 10179234.4645
+    },
+    {
+      "symbol": "PLAYUSDT",
+      "trade_count": 5991,
+      "volume": 353123.99761
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 5845,
+      "volume": 375352.73806
+    },
+    {
+      "symbol": "EDGEUSDT",
+      "trade_count": 5255,
+      "volume": 428336.6747
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 5010,
+      "volume": 14031379.9611
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 4937,
+      "volume": 137085.25725
+    },
+    {
+      "symbol": "AIOUSDT",
+      "trade_count": 4324,
+      "volume": 103843.38253999999
+    },
+    {
+      "symbol": "TAOUSDT",
+      "trade_count": 4247,
+      "volume": 1073257.33427
+    }
+  ]
+}
