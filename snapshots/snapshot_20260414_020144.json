@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-14T02:01:44+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 148090,
+      "volume": 9795519.51
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 62797,
+      "volume": 3031767.84
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 50304,
+      "volume": 79233994.42
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 20819,
+      "volume": 82398861.62
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 18374,
+      "volume": 1098828.75
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 15577,
+      "volume": 632481.4
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 15109,
+      "volume": 6041452.81
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 12754,
+      "volume": 14906189.39
+    },
+    {
+      "symbol": "NEIROUSDT",
+      "trade_count": 12347,
+      "volume": 1034699.64
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 10672,
+      "volume": 21479139.33
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 9214,
+      "volume": 2950528.03
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 6943,
+      "volume": 541036.97
+    },
+    {
+      "symbol": "LDOUSDT",
+      "trade_count": 6304,
+      "volume": 1057891.73
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "trade_count": 5738,
+      "volume": 3158793.55
+    },
+    {
+      "symbol": "ENAUSDT",
+      "trade_count": 5679,
+      "volume": 1155735.03
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 5520,
+      "volume": 551944.58
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 5142,
+      "volume": 371746.06
+    },
+    {
+      "symbol": "BTCUSDC",
+      "trade_count": 5076,
+      "volume": 19271726.37
+    },
+    {
+      "symbol": "EVAAUSDT",
+      "trade_count": 4982,
+      "volume": 210265.03
+    },
+    {
+      "symbol": "1000BONKUSDT",
+      "trade_count": 4620,
+      "volume": 940533.48
+    }
+  ]
+}
