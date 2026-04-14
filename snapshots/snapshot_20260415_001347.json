@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T00:13:47+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 36234,
+      "volume": 4016419.0666399994
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 35931,
+      "volume": 83778073.44801
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 15841,
+      "volume": 2245809.17454
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 15604,
+      "volume": 36631048.484799996
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 11042,
+      "volume": 777919.35863
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 10957,
+      "volume": 654833.32363
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 10616,
+      "volume": 569230.5590899999
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 10506,
+      "volume": 289853.24799999996
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 9859,
+      "volume": 1283218.4279999998
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 8519,
+      "volume": 17746204.18569
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 7219,
+      "volume": 6179471.03
+    },
+    {
+      "symbol": "XANUSDT",
+      "trade_count": 6956,
+      "volume": 397496.229172
+    },
+    {
+      "symbol": "XRPUSDT",
+      "trade_count": 5758,
+      "volume": 3442956.7854699995
+    },
+    {
+      "symbol": "BNBUSDT",
+      "trade_count": 5183,
+      "volume": 2417574.2904000003
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 4750,
+      "volume": 946254.4103948999
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "trade_count": 4685,
+      "volume": 2311463.57245
+    },
+    {
+      "symbol": "VVVUSDT",
+      "trade_count": 4311,
+      "volume": 226257.45464
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 4198,
+      "volume": 803786.78964
+    },
+    {
+      "symbol": "TRUUSDT",
+      "trade_count": 3740,
+      "volume": 195298.84458600002
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "trade_count": 3521,
+      "volume": 1362746.25151
+    }
+  ]
+}
