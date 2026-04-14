@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-14T11:51:32.911031+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 66727,
+      "volume": 11870918.01461
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 36735,
+      "volume": 5228587.46406
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 19655,
+      "volume": 1461219.9458
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 15605,
+      "volume": 38141431.66537
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 15528,
+      "volume": 1042913.6174999999
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 15022,
+      "volume": 1043307.88356
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 11228,
+      "volume": 365274.610111
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 9851,
+      "volume": 357367.23397
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 8800,
+      "volume": 664964.9372
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 8548,
+      "volume": 27884228.8838
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 8440,
+      "volume": 356888.6051
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 7808,
+      "volume": 1846029.1945600002
+    },
+    {
+      "symbol": "\u6211\u8e0f\u9a6c\u6765\u4e86USDT",
+      "trade_count": 7410,
+      "volume": 481370.302782
+    },
+    {
+      "symbol": "ZAMAUSDT",
+      "trade_count": 7062,
+      "volume": 643878.24368
+    },
+    {
+      "symbol": "4USDT",
+      "trade_count": 5918,
+      "volume": 164600.283165
+    },
+    {
+      "symbol": "TSTUSDT",
+      "trade_count": 5665,
+      "volume": 284987.58978100005
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 4315,
+      "volume": 170207.82003999996
+    },
+    {
+      "symbol": "COAIUSDT",
+      "trade_count": 4263,
+      "volume": 180045.0721
+    },
+    {
+      "symbol": "\u9f99\u867eUSDT",
+      "trade_count": 4196,
+      "volume": 149933.414907
+    },
+    {
+      "symbol": "INXUSDT",
+      "trade_count": 4165,
+      "volume": 122437.867607
+    }
+  ]
+}
