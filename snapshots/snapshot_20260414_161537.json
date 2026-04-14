@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-14T16:15:37+02:00",
+  "top_20": [
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 58322,
+      "volume": 2432690.78668
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 48931,
+      "volume": 6639426.7145299995
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 32864,
+      "volume": 128909499.99449998
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 31772,
+      "volume": 48224272.72093
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 31339,
+      "volume": 5847230.85365
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 26480,
+      "volume": 1036898.26153
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 23605,
+      "volume": 1546153.6391
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 18271,
+      "volume": 726605.8089449999
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "trade_count": 17002,
+      "volume": 7927803.122380001
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "trade_count": 15297,
+      "volume": 8414017.71244
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 10376,
+      "volume": 832087.4947
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 9498,
+      "volume": 1794574.2892433
+    },
+    {
+      "symbol": "ZAMAUSDT",
+      "trade_count": 9108,
+      "volume": 826717.84557
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 8591,
+      "volume": 10363654.15989
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 7926,
+      "volume": 8118570.731800001
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 7824,
+      "volume": 1842086.88877
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 6722,
+      "volume": 458563.47609999997
+    },
+    {
+      "symbol": "VVVUSDT",
+      "trade_count": 6697,
+      "volume": 382504.47235999996
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 6521,
+      "volume": 315077.90337
+    },
+    {
+      "symbol": "CRCLUSDT",
+      "trade_count": 6458,
+      "volume": 3685107.7086000005
+    }
+  ]
+}
