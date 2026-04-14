@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-14T19:36:41.265406+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 195053,
+      "volume": 47533133.36481
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 106367,
+      "volume": 5961143.28367
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 48176,
+      "volume": 84708566.64172998
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 39236,
+      "volume": 152038338.8046
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 26923,
+      "volume": 754335.79629
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 24795,
+      "volume": 1824028.4067000002
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 16146,
+      "volume": 946810.414
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 16110,
+      "volume": 590806.2861799999
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 15944,
+      "volume": 521899.8504100001
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 15713,
+      "volume": 2088972.65704
+    },
+    {
+      "symbol": "HEMIUSDT",
+      "trade_count": 14675,
+      "volume": 808554.6892860001
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 14267,
+      "volume": 907086.66493
+    },
+    {
+      "symbol": "BARDUSDT",
+      "trade_count": 13374,
+      "volume": 2764195.9025
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 11142,
+      "volume": 26006221.95081
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 11110,
+      "volume": 786368.8897
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "trade_count": 10689,
+      "volume": 5228561.3338
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 8922,
+      "volume": 233639.22043000002
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 8832,
+      "volume": 2001856.4262072
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 8586,
+      "volume": 10712096.522699999
+    },
+    {
+      "symbol": "BNBUSDT",
+      "trade_count": 8192,
+      "volume": 5858357.6376
+    }
+  ]
+}
