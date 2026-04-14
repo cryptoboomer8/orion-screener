@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-14T08:12:31.781884+02:00",
+  "top_20": [
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 96467,
+      "volume": 5600576.689275
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 80828,
+      "volume": 9657510.662770001
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 50897,
+      "volume": 5218299.1744
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "trade_count": 33391,
+      "volume": 1446625.4409999999
+    },
+    {
+      "symbol": "COAIUSDT",
+      "trade_count": 22389,
+      "volume": 1657984.06
+    },
+    {
+      "symbol": "AIAUSDT",
+      "trade_count": 13853,
+      "volume": 892214.63594
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 10158,
+      "volume": 20653004.402289998
+    },
+    {
+      "symbol": "INXUSDT",
+      "trade_count": 9998,
+      "volume": 365529.125398
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 7836,
+      "volume": 457590.03894
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 7714,
+      "volume": 479648.26749999996
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 6577,
+      "volume": 731260.4761800001
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 6144,
+      "volume": 1909027.9287999999
+    },
+    {
+      "symbol": "JCTUSDT",
+      "trade_count": 6004,
+      "volume": 308317.370105
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 5371,
+      "volume": 146529.86595
+    },
+    {
+      "symbol": "4USDT",
+      "trade_count": 5121,
+      "volume": 252876.20348300002
+    },
+    {
+      "symbol": "ZAMAUSDT",
+      "trade_count": 4873,
+      "volume": 438370.38850000006
+    },
+    {
+      "symbol": "AVAAIUSDT",
+      "trade_count": 4846,
+      "volume": 187443.986182
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 4516,
+      "volume": 19418320.0379
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 4436,
+      "volume": 151279.98396
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 4384,
+      "volume": 202502.6291
+    }
+  ]
+}
