@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T17:14:04.260322+02:00",
+  "top_20": [
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 64133,
+      "volume": 6824743.22603
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 44534,
+      "volume": 5483466.65413
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 38510,
+      "volume": 1472844.7152510001
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 37833,
+      "volume": 3862072.9915000005
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 34490,
+      "volume": 48396386.01522
+    },
+    {
+      "symbol": "LYNUSDT",
+      "trade_count": 27999,
+      "volume": 1768320.4617400002
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 19461,
+      "volume": 1258765.4106400001
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 18248,
+      "volume": 40180179.9096
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 15018,
+      "volume": 2596582.5159
+    },
+    {
+      "symbol": "BEATUSDT",
+      "trade_count": 12275,
+      "volume": 797799.4848
+    },
+    {
+      "symbol": "DUSDT",
+      "trade_count": 11678,
+      "volume": 702182.587901
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 11636,
+      "volume": 2218357.8411
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 9518,
+      "volume": 332144.71879
+    },
+    {
+      "symbol": "INUSDT",
+      "trade_count": 9472,
+      "volume": 730710.11688
+    },
+    {
+      "symbol": "BIOUSDT",
+      "trade_count": 7951,
+      "volume": 1045102.0244400001
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 7858,
+      "volume": 445981.4136699999
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 7726,
+      "volume": 8968473.5309
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 7434,
+      "volume": 13842423.47108
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 6780,
+      "volume": 1070505.0989045
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 6189,
+      "volume": 1403566.85209
+    }
+  ]
+}
