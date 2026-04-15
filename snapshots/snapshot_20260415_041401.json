@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T04:14:01+02:00",
+  "top_20": [
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 42113,
+      "volume": 6774501.5968
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 29156,
+      "volume": 845165.5136
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 24676,
+      "volume": 2103260.8054
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 22206,
+      "volume": 2232533.927
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 21795,
+      "volume": 3936677.8406
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 13852,
+      "volume": 1068262.9269
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 11440,
+      "volume": 542641.3813
+    },
+    {
+      "symbol": "TRUUSDT",
+      "trade_count": 8802,
+      "volume": 408145.9949
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "trade_count": 7197,
+      "volume": 229769.5199
+    },
+    {
+      "symbol": "COAIUSDT",
+      "trade_count": 6570,
+      "volume": 392103.3169
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 5858,
+      "volume": 5355642.5168
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 5785,
+      "volume": 138178.5036
+    },
+    {
+      "symbol": "\u9f99\u867eUSDT",
+      "trade_count": 4994,
+      "volume": 235108.7697
+    },
+    {
+      "symbol": "TURBOUSDT",
+      "trade_count": 4568,
+      "volume": 247535.6999
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 4514,
+      "volume": 192076.1052
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 4477,
+      "volume": 1277822.364
+    },
+    {
+      "symbol": "AKEUSDT",
+      "trade_count": 4187,
+      "volume": 96753.2782
+    },
+    {
+      "symbol": "4USDT",
+      "trade_count": 4167,
+      "volume": 130982.3033
+    },
+    {
+      "symbol": "XANUSDT",
+      "trade_count": 4131,
+      "volume": 161081.6542
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 3904,
+      "volume": 8845014.4729
+    }
+  ]
+}
