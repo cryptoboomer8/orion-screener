@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T20:13:43.468416+02:00",
+  "top_20": [
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 93990,
+      "volume": 4558861.988908
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 56521,
+      "volume": 6748873.713520001
+    },
+    {
+      "symbol": "PLAYUSDT",
+      "trade_count": 20145,
+      "volume": 1859338.6567
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 18979,
+      "volume": 1397942.1162800002
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 16251,
+      "volume": 426220.10727000004
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 14082,
+      "volume": 10937213.52132
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 10403,
+      "volume": 188400.65366
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 9656,
+      "volume": 350887.28369999997
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 8547,
+      "volume": 20737393.5847
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 6932,
+      "volume": 263595.4189
+    },
+    {
+      "symbol": "LYNUSDT",
+      "trade_count": 6912,
+      "volume": 335962.70142
+    },
+    {
+      "symbol": "BIOUSDT",
+      "trade_count": 6765,
+      "volume": 801390.73436
+    },
+    {
+      "symbol": "ORDIUSDT",
+      "trade_count": 6403,
+      "volume": 722881.2876
+    },
+    {
+      "symbol": "ALCHUSDT",
+      "trade_count": 6177,
+      "volume": 388362.67813
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 5021,
+      "volume": 634363.8445599999
+    },
+    {
+      "symbol": "KITEUSDT",
+      "trade_count": 4534,
+      "volume": 151679.32957
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 4203,
+      "volume": 313234.03242999996
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 3632,
+      "volume": 495061.2955655
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "trade_count": 3155,
+      "volume": 1231561.08584
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 3143,
+      "volume": 66816.89118
+    }
+  ]
+}
