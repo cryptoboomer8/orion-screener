@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T09:13:49.955297+02:00",
+  "top_20": [
+    {
+      "symbol": "INUSDT",
+      "trade_count": 46865,
+      "volume": 4999536.26
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 28107,
+      "volume": 4247584.54
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 26149,
+      "volume": 5073519.48
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 23306,
+      "volume": 2168367.44
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 13981,
+      "volume": 799004.09
+    },
+    {
+      "symbol": "REDUSDT",
+      "trade_count": 13573,
+      "volume": 2234654.12
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 12404,
+      "volume": 25883924.11
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 9823,
+      "volume": 695115.25
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 9351,
+      "volume": 440664.18
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "trade_count": 8803,
+      "volume": 4826211.23
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 8698,
+      "volume": 24457204.76
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 8444,
+      "volume": 458041.55
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 8232,
+      "volume": 456054.64
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 7917,
+      "volume": 346723.55
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 5687,
+      "volume": 433730.47
+    },
+    {
+      "symbol": "TRUSTUSDT",
+      "trade_count": 5501,
+      "volume": 320643.22
+    },
+    {
+      "symbol": "CCUSDT",
+      "trade_count": 4658,
+      "volume": 180568.57
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 4541,
+      "volume": 4340437.62
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 4540,
+      "volume": 523029.06
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 4395,
+      "volume": 1094475.05
+    }
+  ]
+}
