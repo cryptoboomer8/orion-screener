@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T03:13:49.196593+02:00",
+  "top_20": [
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 40320,
+      "volume": 1574098.207753
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 25984,
+      "volume": 1133720.14084
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 25565,
+      "volume": 3587008.07551
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 18838,
+      "volume": 1484604.72239
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 15553,
+      "volume": 1283206.2051
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 13537,
+      "volume": 14578298.11054
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 9076,
+      "volume": 1370318.57452
+    },
+    {
+      "symbol": "XMRUSDT",
+      "trade_count": 8848,
+      "volume": 905505.3206300001
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 7587,
+      "volume": 10560836.7128
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 7066,
+      "volume": 11947004.6517
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 7041,
+      "volume": 578687.4101
+    },
+    {
+      "symbol": "XAGUSDT",
+      "trade_count": 7001,
+      "volume": 22277017.95454
+    },
+    {
+      "symbol": "\u9f99\u867eUSDT",
+      "trade_count": 6847,
+      "volume": 299840.001263
+    },
+    {
+      "symbol": "XAUUSDT",
+      "trade_count": 5312,
+      "volume": 13946204.867059998
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 5225,
+      "volume": 137648.72569
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 5091,
+      "volume": 250284.49614999996
+    },
+    {
+      "symbol": "XRPUSDT",
+      "trade_count": 4774,
+      "volume": 4658148.42041
+    },
+    {
+      "symbol": "ZBTUSDT",
+      "trade_count": 4722,
+      "volume": 207490.25832
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 4112,
+      "volume": 956516.5390000001
+    },
+    {
+      "symbol": "ZAMAUSDT",
+      "trade_count": 4033,
+      "volume": 326554.75382999994
+    }
+  ]
+}
