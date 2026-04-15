@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T12:14:35.283613+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 51973,
+      "volume": 6907055.17996
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 49360,
+      "volume": 2047376.14174
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 29097,
+      "volume": 4577505.212929999
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 13280,
+      "volume": 813100.1773300001
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 12364,
+      "volume": 747858.04732
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 10018,
+      "volume": 1098152.4768
+    },
+    {
+      "symbol": "CHILLGUYUSDT",
+      "trade_count": 9995,
+      "volume": 210483.620675
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 9181,
+      "volume": 11408018.55932
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 8077,
+      "volume": 856104.3394
+    },
+    {
+      "symbol": "INUSDT",
+      "trade_count": 7219,
+      "volume": 570808.47074
+    },
+    {
+      "symbol": "BIOUSDT",
+      "trade_count": 7215,
+      "volume": 563786.2274499999
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 6374,
+      "volume": 115891.36880999999
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 5992,
+      "volume": 264345.29131
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 5386,
+      "volume": 15443598.7608
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 5269,
+      "volume": 181099.58133999998
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 5075,
+      "volume": 5657087.8826
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "trade_count": 4957,
+      "volume": 311404.08229
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 4328,
+      "volume": 278710.2284
+    },
+    {
+      "symbol": "AGTUSDT",
+      "trade_count": 3466,
+      "volume": 136001.23507
+    },
+    {
+      "symbol": "TRIAUSDT",
+      "trade_count": 3354,
+      "volume": 155879.03086
+    }
+  ]
+}
