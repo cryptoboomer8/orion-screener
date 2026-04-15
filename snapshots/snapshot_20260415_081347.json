@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T08:13:47+02:00",
+  "top_20": [
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 56829,
+      "volume": 4501166.94763
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 40037,
+      "volume": 7123038.58055
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 15839,
+      "volume": 840640.07822
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 13240,
+      "volume": 887178.1695999999
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 12147,
+      "volume": 1575944.29718
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 11830,
+      "volume": 249723.118089
+    },
+    {
+      "symbol": "CCUSDT",
+      "trade_count": 11361,
+      "volume": 944434.71565
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 11282,
+      "volume": 1095014.1538
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 10671,
+      "volume": 366875.336
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 8227,
+      "volume": 590119.95197
+    },
+    {
+      "symbol": "REDUSDT",
+      "trade_count": 7784,
+      "volume": 1299610.3604
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 7645,
+      "volume": 9688432.790169999
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 7429,
+      "volume": 448643.49291
+    },
+    {
+      "symbol": "INUSDT",
+      "trade_count": 7141,
+      "volume": 765844.61936
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 6316,
+      "volume": 141552.27731
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 5265,
+      "volume": 15538642.2612
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "trade_count": 3660,
+      "volume": 179547.36378
+    },
+    {
+      "symbol": "SWARMSUSDT",
+      "trade_count": 3602,
+      "volume": 69965.984266
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 3463,
+      "volume": 83304.86912
+    },
+    {
+      "symbol": "COAIUSDT",
+      "trade_count": 3446,
+      "volume": 113361.10669999999
+    }
+  ]
+}
