@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T05:15:01+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 46956,
+      "volume": 6419218.79
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 46638,
+      "volume": 6981607.05
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 26894,
+      "volume": 771368.13
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 21294,
+      "volume": 2079781.83
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 19654,
+      "volume": 551659.81
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 18095,
+      "volume": 1132670.96
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 17861,
+      "volume": 1220522.28
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 15842,
+      "volume": 605648.66
+    },
+    {
+      "symbol": "\u9f99\u867eUSDT",
+      "trade_count": 11965,
+      "volume": 620803.37
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 6509,
+      "volume": 380715.39
+    },
+    {
+      "symbol": "AKEUSDT",
+      "trade_count": 5866,
+      "volume": 135452.25
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 5558,
+      "volume": 302325.62
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "trade_count": 5265,
+      "volume": 128646.02
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 5197,
+      "volume": 5619241.17
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 5106,
+      "volume": 423692.33
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 4612,
+      "volume": 9911146.91
+    },
+    {
+      "symbol": "SWARMSUSDT",
+      "trade_count": 4155,
+      "volume": 82430.2
+    },
+    {
+      "symbol": "ZBTUSDT",
+      "trade_count": 3789,
+      "volume": 361816.2
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 3552,
+      "volume": 218704.47
+    },
+    {
+      "symbol": "ZAMAUSDT",
+      "trade_count": 3405,
+      "volume": 274026.36
+    }
+  ]
+}
