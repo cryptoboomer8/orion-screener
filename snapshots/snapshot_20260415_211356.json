@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T21:13:56.998794+02:00",
+  "top_20": [
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 40208,
+      "volume": 1508748.991584
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 34470,
+      "volume": 2653968.92649
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 26590,
+      "volume": 2959868.74522
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 21299,
+      "volume": 63312239.31650001
+    },
+    {
+      "symbol": "PLAYUSDT",
+      "trade_count": 19709,
+      "volume": 1617533.19475
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 14013,
+      "volume": 42032956.7643
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 8262,
+      "volume": 1051660.6045799998
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 7973,
+      "volume": 512363.80296
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 5967,
+      "volume": 190567.62259999997
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 5895,
+      "volume": 78042.72237999999
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 5201,
+      "volume": 1161333.8667733
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 5197,
+      "volume": 3066867.4058999997
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 4974,
+      "volume": 245243.32932999998
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 4972,
+      "volume": 12942547.98388
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 4793,
+      "volume": 1132932.6009499999
+    },
+    {
+      "symbol": "AGTUSDT",
+      "trade_count": 4527,
+      "volume": 182045.73887800003
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 4460,
+      "volume": 85851.12268999999
+    },
+    {
+      "symbol": "ALCHUSDT",
+      "trade_count": 3976,
+      "volume": 263902.76798
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 3863,
+      "volume": 154690.9216
+    },
+    {
+      "symbol": "ARCUSDT",
+      "trade_count": 3824,
+      "volume": 222664.17446
+    }
+  ]
+}
