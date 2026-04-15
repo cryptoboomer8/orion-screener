@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T14:15:00+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 105304,
+      "volume": 15893143.9257
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 38078,
+      "volume": 1651106.9131
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 30125,
+      "volume": 3682182.7748
+    },
+    {
+      "symbol": "BIOUSDT",
+      "trade_count": 22393,
+      "volume": 2452326.4881
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 19858,
+      "volume": 2467336.8594
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 13040,
+      "volume": 17193443.7846
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 10307,
+      "volume": 673210.7477
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 8739,
+      "volume": 454581.4592
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 7775,
+      "volume": 26664470.2409
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 7741,
+      "volume": 496734.201
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 6871,
+      "volume": 562671.876
+    },
+    {
+      "symbol": "TRXUSDT",
+      "trade_count": 6841,
+      "volume": 3118449.4082
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 6645,
+      "volume": 450633.4919
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 4681,
+      "volume": 237404.1135
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 4642,
+      "volume": 75553.8584
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 4258,
+      "volume": 2530904.1094
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 4158,
+      "volume": 213822.0551
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 3975,
+      "volume": 1037898.1464
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 3859,
+      "volume": 144601.7595
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 3773,
+      "volume": 248580.2606
+    }
+  ]
+}
