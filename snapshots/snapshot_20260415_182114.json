@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T18:21:14+02:00",
+  "top_20": [
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 153172,
+      "volume": 15672916.93649
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 40507,
+      "volume": 4352136.990569999
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 35477,
+      "volume": 54057209.66983
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 22542,
+      "volume": 729127.9884309999
+    },
+    {
+      "symbol": "ALCHUSDT",
+      "trade_count": 21852,
+      "volume": 1746822.81003
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 19762,
+      "volume": 46346303.386199996
+    },
+    {
+      "symbol": "LYNUSDT",
+      "trade_count": 19067,
+      "volume": 1261240.845
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 14569,
+      "volume": 2254873.8334
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 13076,
+      "volume": 731389.9554099999
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 12712,
+      "volume": 15073912.546299998
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 10312,
+      "volume": 2237893.3339908
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 8986,
+      "volume": 292402.12545
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 8506,
+      "volume": 184491.87073999998
+    },
+    {
+      "symbol": "HUSDT",
+      "trade_count": 7538,
+      "volume": 400480.93324
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 6713,
+      "volume": 12178567.357110001
+    },
+    {
+      "symbol": "CTSIUSDT",
+      "trade_count": 6468,
+      "volume": 1128937.2016999999
+    },
+    {
+      "symbol": "BIOUSDT",
+      "trade_count": 6229,
+      "volume": 819333.85644
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 6063,
+      "volume": 1264872.24724
+    },
+    {
+      "symbol": "CHZUSDT",
+      "trade_count": 6040,
+      "volume": 743892.9412199999
+    },
+    {
+      "symbol": "XRPUSDT",
+      "trade_count": 5368,
+      "volume": 2652885.3452899996
+    }
+  ]
+}
