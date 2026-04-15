@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T11:13:51.448425+02:00",
+  "top_20": [
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 64081,
+      "volume": 3493421.501952
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 45916,
+      "volume": 7015144.43289
+    },
+    {
+      "symbol": "INUSDT",
+      "trade_count": 25162,
+      "volume": 2084874.2534100001
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 14145,
+      "volume": 19034578.85261
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 13952,
+      "volume": 906069.2153699999
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 12344,
+      "volume": 283778.25334999996
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 12113,
+      "volume": 1678420.3383600002
+    },
+    {
+      "symbol": "TRUSTUSDT",
+      "trade_count": 11470,
+      "volume": 843704.24921
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 10740,
+      "volume": 778534.8141800001
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 10309,
+      "volume": 1069877.0723199998
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 8358,
+      "volume": 345957.2426
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 7683,
+      "volume": 23693988.093799997
+    },
+    {
+      "symbol": "XAUUSDT",
+      "trade_count": 7418,
+      "volume": 21712213.762459993
+    },
+    {
+      "symbol": "AKEUSDT",
+      "trade_count": 6790,
+      "volume": 268989.30823970004
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 6625,
+      "volume": 543736.9673
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "trade_count": 6159,
+      "volume": 599350.425
+    },
+    {
+      "symbol": "XAGUSDT",
+      "trade_count": 5660,
+      "volume": 16387685.58375
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 5526,
+      "volume": 6267540.0771
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 5495,
+      "volume": 249608.8796
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 4328,
+      "volume": 163702.5942
+    }
+  ]
+}
