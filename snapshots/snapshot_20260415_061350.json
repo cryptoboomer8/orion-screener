@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T06:13:50+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 47944,
+      "volume": 6320450.6191
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 28346,
+      "volume": 889840.1377620001
+    },
+    {
+      "symbol": "INUSDT",
+      "trade_count": 19865,
+      "volume": 1777392.00852
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 17571,
+      "volume": 1508038.28635
+    },
+    {
+      "symbol": "LABUSDT",
+      "trade_count": 15785,
+      "volume": 442040.21658999997
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 14343,
+      "volume": 1270112.4980000001
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 13239,
+      "volume": 1646167.86432
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 11268,
+      "volume": 507124.17773000005
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 11033,
+      "volume": 378663.9448
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "trade_count": 10548,
+      "volume": 799246.4345
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 9850,
+      "volume": 698630.3336700001
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 9818,
+      "volume": 792559.6962
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 5481,
+      "volume": 8366932.94753
+    },
+    {
+      "symbol": "BRUSDT",
+      "trade_count": 5320,
+      "volume": 254240.04251
+    },
+    {
+      "symbol": "\u9f99\u867eUSDT",
+      "trade_count": 3341,
+      "volume": 166735.533374
+    },
+    {
+      "symbol": "AKEUSDT",
+      "trade_count": 3307,
+      "volume": 64694.7842279
+    },
+    {
+      "symbol": "ONUSDT",
+      "trade_count": 3202,
+      "volume": 102644.95138000001
+    },
+    {
+      "symbol": "COAIUSDT",
+      "trade_count": 3140,
+      "volume": 115289.01130000001
+    },
+    {
+      "symbol": "CUSDT",
+      "trade_count": 3104,
+      "volume": 211899.88286
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "trade_count": 2894,
+      "volume": 156367.75116999997
+    }
+  ]
+}
