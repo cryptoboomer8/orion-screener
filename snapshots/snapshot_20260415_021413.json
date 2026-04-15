@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T02:14:13+02:00",
+  "top_20": [
+    {
+      "symbol": "RAVEUSDT",
+      "trade_count": 32492,
+      "volume": 4352062.63
+    },
+    {
+      "symbol": "ETHUSDT",
+      "trade_count": 31171,
+      "volume": 46371511.97063
+    },
+    {
+      "symbol": "BTCUSDT",
+      "trade_count": 22572,
+      "volume": 62945161.689
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "trade_count": 22337,
+      "volume": 632275.0479009999
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "trade_count": 22194,
+      "volume": 1315806.17958
+    },
+    {
+      "symbol": "APRUSDT",
+      "trade_count": 19005,
+      "volume": 1683732.5959500002
+    },
+    {
+      "symbol": "ENJUSDT",
+      "trade_count": 15912,
+      "volume": 1082073.7887
+    },
+    {
+      "symbol": "MYXUSDT",
+      "trade_count": 11971,
+      "volume": 883108.1181000001
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+      "trade_count": 9445,
+      "volume": 1594262.2563
+    },
+    {
+      "symbol": "XANUSDT",
+      "trade_count": 9196,
+      "volume": 368365.324841
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "trade_count": 8911,
+      "volume": 709494.5529
+    },
+    {
+      "symbol": "COAIUSDT",
+      "trade_count": 8085,
+      "volume": 476704.5784
+    },
+    {
+      "symbol": "ZAMAUSDT",
+      "trade_count": 7829,
+      "volume": 793481.44133
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "trade_count": 7668,
+      "volume": 226706.94469
+    },
+    {
+      "symbol": "WETUSDT",
+      "trade_count": 7284,
+      "volume": 248920.99989000004
+    },
+    {
+      "symbol": "ZECUSDT",
+      "trade_count": 6918,
+      "volume": 1711808.90463
+    },
+    {
+      "symbol": "SOLUSDT",
+      "trade_count": 6153,
+      "volume": 7016622.020300001
+    },
+    {
+      "symbol": "JCTUSDT",
+      "trade_count": 5697,
+      "volume": 279611.332314
+    },
+    {
+      "symbol": "ETHUSDC",
+      "trade_count": 5623,
+      "volume": 11897895.22526
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "trade_count": 5519,
+      "volume": 1362494.8919035
+    }
+  ]
+}
