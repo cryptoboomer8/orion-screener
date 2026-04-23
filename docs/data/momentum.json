@@ -1,1 +1,1 @@
-{"ts":"2026-04-23T18:00:14+00:00","universe":638,"cohort":0,"cohort_min_v1m":50000.0,"spark_window":48,"weights":{"cascade":1.5,"vol_rise":1.0,"oi_rise":1.0,"flow":1.0,"crowding":-0.8,"pumpiness":-0.8},"leaderboard":[]}
+{"ts":"2026-04-23T18:05:14+00:00","universe":638,"cohort":0,"cohort_min_v1m":50000.0,"spark_window":48,"weights":{"cascade":1.5,"vol_rise":1.0,"oi_rise":1.0,"flow":1.0,"crowding":-0.8,"pumpiness":-0.8},"leaderboard":[]}
